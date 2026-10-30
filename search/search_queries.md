@@ -1,6 +1,6 @@
 # Search Queries and Execution Details
 
-This document provides the standardized search strings, execution parameters, and database-specific search configurations applied during the literature search phase of the SLR.
+This document provides the standardized search strings, execution parameters, and database-specific search configurations applied during the literature search phase of the SLM.
 
 ---
 
