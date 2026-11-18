@@ -40,7 +40,7 @@ The protocol and the selection were managed on the [Parsifal](https://parsif.al/
 
 ## How to cite
 
-Use the metadata in `CITATION.cff` (GitHub shows a "Cite this repository" button) or the Zenodo record: <https://doi.org/10.5281/zenodo.23824407>.
+Use the metadata in `CITATION.cff` (GitHub shows a "Cite this repository" button) or the Zenodo record: <https://doi.org/10.5281/zenodo.23824626>.
 
 ## License
 
