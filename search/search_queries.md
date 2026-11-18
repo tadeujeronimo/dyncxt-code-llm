@@ -1,6 +1,6 @@
 # Search Queries and Execution Details
 
-This document provides the standardized search strings, execution parameters, and database-specific search configurations applied during the literature search phase of the SLM.
+This document provides the standardized search strings, execution parameters, and database-specific search configurations applied during the literature search phase of the review.
 
 ---
 
@@ -11,9 +11,9 @@ This document provides the standardized search strings, execution parameters, an
 
 ---
 
-## Standardized Search String (PICO Framework)
+## Standardized Search String (PICOC Framework)
 
-The query string was designed following the PICO (Population, Intervention, Comparison, Outcome) model, connecting key terms with boolean operators (AND, OR):
+The query string was designed following the PICOC (Population, Intervention, Comparison, Outcome, Context) formulation, in which the Context element (repository level) is applied as an eligibility criterion and not as a search term, connecting key terms with boolean operators (AND, OR):
 
 ("large language model" OR LLM OR "language models" OR "code LLMs")
 AND
